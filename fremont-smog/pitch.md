@@ -1,80 +1,50 @@
 # Sales Script — Fremont Smog Test Only
-**Live demo:** https://mehta-alok.github.io/websites/fremont-smog/
-**Phone:** (510) 744-9955  ·  Ask for **the owner**
-**Address:** 4299 Peralta Blvd, Ste E, Fremont, CA
-**Reviews:** 482 on Yelp (4.8★)
-**Niche:** STAR-certified smog station
+
+**Show:** https://mehta-alok.github.io/websites/fremont-smog/
+**Phone:** (510) 744-9955 · ask for **the owner**
+**482 reviews · 4.8★ · STAR-certified smog station · Fremont**
+**Best window:** 2–4 PM (after lunch rush)
 
 ---
 
-## OPENER (5 sec) — say it slow
-> "Hi, is this the owner? Quick question — got 30 seconds? Great. I'm Alok, local in Milpitas. I was looking up smog check stations in Fremont and your shop came up — you've got **482 reviews** on Yelp. That's wild. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+## OPENER (10 sec)
 
-*[Pause. Let them answer. Most will say "haven't gotten around to it."]*
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up smog check stations in Fremont and yours came up — **482 reviews on Yelp, 4.8 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
 
----
+## HOOK + OFFER (20 sec)
 
-## HOOK (15 sec) — the leak
-> "Yeah, that's what I figured. Here's the thing — Smog is a 'find one fast' Google search. The shops with websites get the same-day walk-ins."
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
 
----
+## SHOW THE SITE
 
-## OFFER (15 sec) — one number
-> "I built you a clean website for **Fremont Smog Test Only**. Mobile-friendly, fast. **$799 one-time. Hosting included for life. Updates included for life.** Anytime you want a change, text me. No monthly fees, ever. Done in a week."
+> "Pull this up on your phone: **mehta-alok.github.io/websites/fremont-smog**"
 
-What it includes:
-- Big STAR Certified badge
-- Walk-In Welcome message
-- Pricing displayed clearly ($50 most cars)
-- Hours, map, click-to-call
+*Wait. Let them scroll.*
 
----
+> "That's your shop. Real prices — $50 smog, $40 test only. STAR Certified badge. Walk-In Welcome. Click-to-call."
 
-## SHOW THE SITE (the close)
-Open this on your phone and slide it across to the owner:
+**Stop talking. Let silence work.**
 
-> **https://mehta-alok.github.io/websites/fremont-smog/**
+## CLOSE
 
-Walk them through:
-1. Hero — "That's your name, your city, your reviews."
-2. Services / Menu — "Your real prices, customer-facing."
-3. Gallery — "Photos of your work."
-4. Reviews — "Your real 482 Yelp reviews displayed."
-5. Map / Hours — "Your real address, click-to-call phone."
+> "Want it live by Friday on your own domain? $799 once, that's it."
 
-Stop talking. Let them scroll.
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
 
 ---
 
-## OBJECTION HANDLERS
+## QUICK OBJECTIONS
 
 | They say | You say |
 |----------|---------|
-| "I don't need one." | "Totally fair. But your competitors have one — they're the ones showing up first when someone Googles 'smog check stations Fremont'. With 482 reviews, you should be #1." |
-| "I'm too busy." | "That's why this works. You don't do anything. Send me your logo and 5 photos — I'll handle the rest." |
-| "Too expensive." | "Even 2 extra customers a month pays for it forever. After that, it's pure new revenue." |
-| "Let me think about it." | "Sure — what specifically? Price, design, or timing?" *(Force the real objection out.)* |
-| "How much again?" | "$799 once. Updates forever. No subscriptions. Done in a week." |
-| "Can you do it cheaper?" | "$799 is firm — but I'll throw in a free Google Business Profile cleanup and the domain for year one. Fair?" |
-| "What if I don't like it?" | "I'll mock it up first, free. If you don't like it, you owe me nothing." |
+| "Don't need a website." | "I get it — but customers Google 'smog check stations Fremont' before they decide. Your competitors with sites get those people. With 482 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 16 smog checks pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
 
----
+## VOICEMAIL (15 sec)
 
-## CLOSE (be direct)
-> "Want me to make this yours by Friday?"
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Fremont Smog Test Only** — please look at **mehta-alok.github.io/websites/fremont-smog** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
 
-If yes → "Great. Just text me your logo (if you have one) and 5 photos to (510) 744-9955. I'll have the live URL with your domain by Friday."
+## TEXT FOLLOW-UP
 
----
-
-## VOICEMAIL (90% will hit voicemail first)
-> "Hey the owner, this is Alok, local in Milpitas. I built a website for **Fremont Smog Test Only** — go to **https://mehta-alok.github.io/websites/fremont-smog/** to see it, takes 30 seconds. $799 flat, no monthly fees. Call or text me back at [your number] when you've seen it. Thanks."
-
----
-
-## TEXT FOLLOW-UP (Day 3 if no reply)
-> "Hi the owner — Alok from Tuesday. Did you get a chance to look at the Fremont Smog Test Only website I sent? https://mehta-alok.github.io/websites/fremont-smog/ — let me know if you want it live this week."
-
----
-
-**Best time to call** anytime — they answer phones constantly.
+> "Hi the owner — Alok from earlier. Did you see the Fremont Smog Test Only site? **mehta-alok.github.io/websites/fremont-smog** — let me know if you want it live this week."

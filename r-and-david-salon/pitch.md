@@ -1,80 +1,50 @@
 # Sales Script — R & David Salon
-**Live demo:** https://mehta-alok.github.io/websites/r-and-david-salon/
-**Phone:** (408) 799-0759  ·  Ask for **the owner**
-**Address:** 10321 S De Anza Blvd, Suite B, Cupertino, CA
-**Reviews:** 157 on Yelp (4.7★)
-**Niche:** hair salon
+
+**Show:** https://mehta-alok.github.io/websites/r-and-david-salon/
+**Phone:** (408) 799-0759 · ask for **the owner**
+**157 reviews · 4.7★ · hair salon · Cupertino**
+**Best window:** 11 AM or 2–4 PM (between appointments)
 
 ---
 
-## OPENER (5 sec) — say it slow
-> "Hi, is this the owner? Quick question — got 30 seconds? Great. I'm Alok, local in Milpitas. I was looking up hair salons in Cupertino and your shop came up — you've got **157 reviews** on Yelp. That's wild. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+## OPENER (10 sec)
 
-*[Pause. Let them answer. Most will say "haven't gotten around to it."]*
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up hair salons in Cupertino and yours came up — **157 reviews on Yelp, 4.7 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
 
----
+## HOOK + OFFER (20 sec)
 
-## HOOK (15 sec) — the leak
-> "Yeah, that's what I figured. Here's the thing — People searching for stylists in your area are landing on competitors' websites instead of finding you."
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
 
----
+## SHOW THE SITE
 
-## OFFER (15 sec) — one number
-> "I built you a clean website for **R & David Salon**. Mobile-friendly, fast. **$799 one-time. Hosting included for life. Updates included for life.** Anytime you want a change, text me. No monthly fees, ever. Done in a week."
+> "Pull this up on your phone: **mehta-alok.github.io/websites/r-and-david-salon**"
 
-What it includes:
-- Service menu with prices, stylist info
-- Gallery of recent looks
-- Online booking integration (Booksy / Vagaro / Setmore)
-- Click-to-call, map, hours
+*Wait. Let them scroll.*
 
----
+> "That's literally your salon. Your real prices, your address, click-to-call, your real Yelp reviews. Big Book button connects to your booking."
 
-## SHOW THE SITE (the close)
-Open this on your phone and slide it across to the owner:
+**Stop talking. Let silence work.**
 
-> **https://mehta-alok.github.io/websites/r-and-david-salon/**
+## CLOSE
 
-Walk them through:
-1. Hero — "That's your name, your city, your reviews."
-2. Services / Menu — "Your real prices, customer-facing."
-3. Gallery — "Photos of your work."
-4. Reviews — "Your real 157 Yelp reviews displayed."
-5. Map / Hours — "Your real address, click-to-call phone."
+> "Want it live by Friday on your own domain? $799 once, that's it."
 
-Stop talking. Let them scroll.
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
 
 ---
 
-## OBJECTION HANDLERS
+## QUICK OBJECTIONS
 
 | They say | You say |
 |----------|---------|
-| "I don't need one." | "Totally fair. But your competitors have one — they're the ones showing up first when someone Googles 'hair salons Cupertino'. With 157 reviews, you should be #1." |
-| "I'm too busy." | "That's why this works. You don't do anything. Send me your logo and 5 photos — I'll handle the rest." |
-| "Too expensive." | "Even 2 extra customers a month pays for it forever. After that, it's pure new revenue." |
-| "Let me think about it." | "Sure — what specifically? Price, design, or timing?" *(Force the real objection out.)* |
-| "How much again?" | "$799 once. Updates forever. No subscriptions. Done in a week." |
-| "Can you do it cheaper?" | "$799 is firm — but I'll throw in a free Google Business Profile cleanup and the domain for year one. Fair?" |
-| "What if I don't like it?" | "I'll mock it up first, free. If you don't like it, you owe me nothing." |
+| "Don't need a website." | "I get it — but customers Google 'hair salons Cupertino' before they book. Your competitors with sites get those people. With 157 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 2 extra appointments pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
 
----
+## VOICEMAIL (15 sec)
 
-## CLOSE (be direct)
-> "Want me to make this yours by Friday?"
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **R & David Salon** — please look at **mehta-alok.github.io/websites/r-and-david-salon** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
 
-If yes → "Great. Just text me your logo (if you have one) and 5 photos to (408) 799-0759. I'll have the live URL with your domain by Friday."
+## TEXT FOLLOW-UP
 
----
-
-## VOICEMAIL (90% will hit voicemail first)
-> "Hey the owner, this is Alok, local in Milpitas. I built a website for **R & David Salon** — go to **https://mehta-alok.github.io/websites/r-and-david-salon/** to see it, takes 30 seconds. $799 flat, no monthly fees. Call or text me back at [your number] when you've seen it. Thanks."
-
----
-
-## TEXT FOLLOW-UP (Day 3 if no reply)
-> "Hi the owner — Alok from Tuesday. Did you get a chance to look at the R & David Salon website I sent? https://mehta-alok.github.io/websites/r-and-david-salon/ — let me know if you want it live this week."
-
----
-
-**Best time to call** after 11 AM or between appointments.
+> "Hi the owner — Alok from earlier. Did you see the R & David Salon site? **mehta-alok.github.io/websites/r-and-david-salon** — let me know if you want it live this week."

@@ -1,80 +1,50 @@
 # Sales Script — Quach's Locksmith
-**Live demo:** https://mehta-alok.github.io/websites/quach-locksmith/
-**Phone:** (510) 839-8888  ·  Ask for **the Quach family**
-**Address:** 106 International Blvd, Oakland, CA
-**Reviews:** 65 on Yelp (4.5★)
-**Niche:** trusted local locksmiths
+
+**Show:** https://mehta-alok.github.io/websites/quach-locksmith/
+**Phone:** (510) 839-8888 · ask for **the Quach family**
+**65 reviews · 4.5★ · trusted local locksmiths · Oakland**
+**Best window:** anytime — they answer phones
 
 ---
 
-## OPENER (5 sec) — say it slow
-> "Hi, is this the Quach family? Quick question — got 30 seconds? Great. I'm Alok, local in Milpitas. I was looking up locksmiths in Oakland and your shop came up — you've got **65 reviews** on Yelp. That's wild. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+## OPENER (10 sec)
 
-*[Pause. Let them answer. Most will say "haven't gotten around to it."]*
+> "Hi, is the Quach family around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up locksmiths in Oakland and yours came up — **65 reviews on Yelp, 4.5 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
 
----
+## HOOK + OFFER (20 sec)
 
-## HOOK (15 sec) — the leak
-> "Yeah, that's what I figured. Here's the thing — Lockouts happen at midnight. People search 'locksmith near me' and click the top 3 results — all with websites."
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
 
----
+## SHOW THE SITE
 
-## OFFER (15 sec) — one number
-> "I built you a clean website for **Quach's Locksmith**. Mobile-friendly, fast. **$799 one-time. Hosting included for life. Updates included for life.** Anytime you want a change, text me. No monthly fees, ever. Done in a week."
+> "Pull this up on your phone: **mehta-alok.github.io/websites/quach-locksmith**"
 
-What it includes:
-- 24/7 banner with click-to-call
-- Service list (re-key, lockout, install)
-- Service area map
-- Click-to-call dominant
+*Wait. Let them scroll.*
 
----
+> "That's your shop. Services with prices, click-to-call dominant, service area map. 24/7 emergency banner."
 
-## SHOW THE SITE (the close)
-Open this on your phone and slide it across to the Quach family:
+**Stop talking. Let silence work.**
 
-> **https://mehta-alok.github.io/websites/quach-locksmith/**
+## CLOSE
 
-Walk them through:
-1. Hero — "That's your name, your city, your reviews."
-2. Services / Menu — "Your real prices, customer-facing."
-3. Gallery — "Photos of your work."
-4. Reviews — "Your real 65 Yelp reviews displayed."
-5. Map / Hours — "Your real address, click-to-call phone."
+> "Want it live by Friday on your own domain? $799 once, that's it."
 
-Stop talking. Let them scroll.
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
 
 ---
 
-## OBJECTION HANDLERS
+## QUICK OBJECTIONS
 
 | They say | You say |
 |----------|---------|
-| "I don't need one." | "Totally fair. But your competitors have one — they're the ones showing up first when someone Googles 'locksmiths Oakland'. With 65 reviews, you should be #1." |
-| "I'm too busy." | "That's why this works. You don't do anything. Send me your logo and 5 photos — I'll handle the rest." |
-| "Too expensive." | "Even 2 extra customers a month pays for it forever. After that, it's pure new revenue." |
-| "Let me think about it." | "Sure — what specifically? Price, design, or timing?" *(Force the real objection out.)* |
-| "How much again?" | "$799 once. Updates forever. No subscriptions. Done in a week." |
-| "Can you do it cheaper?" | "$799 is firm — but I'll throw in a free Google Business Profile cleanup and the domain for year one. Fair?" |
-| "What if I don't like it?" | "I'll mock it up first, free. If you don't like it, you owe me nothing." |
+| "Don't need a website." | "I get it — but customers Google 'locksmiths Oakland' before they call someone. Your competitors with sites get those people. With 65 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even one lockout pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
 
----
+## VOICEMAIL (15 sec)
 
-## CLOSE (be direct)
-> "Want me to make this yours by Friday?"
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Quach's Locksmith** — please look at **mehta-alok.github.io/websites/quach-locksmith** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
 
-If yes → "Great. Just text me your logo (if you have one) and 5 photos to (510) 839-8888. I'll have the live URL with your domain by Friday."
+## TEXT FOLLOW-UP
 
----
-
-## VOICEMAIL (90% will hit voicemail first)
-> "Hey the Quach family, this is Alok, local in Milpitas. I built a website for **Quach's Locksmith** — go to **https://mehta-alok.github.io/websites/quach-locksmith/** to see it, takes 30 seconds. $799 flat, no monthly fees. Call or text me back at [your number] when you've seen it. Thanks."
-
----
-
-## TEXT FOLLOW-UP (Day 3 if no reply)
-> "Hi the Quach family — Alok from Tuesday. Did you get a chance to look at the Quach's Locksmith website I sent? https://mehta-alok.github.io/websites/quach-locksmith/ — let me know if you want it live this week."
-
----
-
-**Best time to call** anytime — they answer phones constantly.
+> "Hi the Quach family — Alok from earlier. Did you see the Quach's Locksmith site? **mehta-alok.github.io/websites/quach-locksmith** — let me know if you want it live this week."

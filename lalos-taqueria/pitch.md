@@ -1,80 +1,50 @@
 # Sales Script — Lalo's Taqueria
-**Live demo:** https://mehta-alok.github.io/websites/lalos-taqueria/
-**Phone:** (510) 940-0137  ·  Ask for **Lalo**
-**Address:** 28293 Mission Boulevard, Hayward, CA
-**Reviews:** 323 on Yelp (4.5★)
-**Niche:** authentic Mexican kitchen
+
+**Show:** https://mehta-alok.github.io/websites/lalos-taqueria/
+**Phone:** (510) 940-0137 · ask for **Lalo**
+**323 reviews · 4.5★ · authentic Mexican kitchen · Hayward**
+**Best window:** 2–4 PM (between lunch & dinner)
 
 ---
 
-## OPENER (5 sec) — say it slow
-> "Hi, is this Lalo? Quick question — got 30 seconds? Great. I'm Alok, local in Milpitas. I was looking up Mexican restaurants in Hayward and your shop came up — you've got **323 reviews** on Yelp. That's wild. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+## OPENER (10 sec)
 
-*[Pause. Let them answer. Most will say "haven't gotten around to it."]*
+> "Hi, is Lalo around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up Mexican restaurants in Hayward and yours came up — **323 reviews on Yelp, 4.5 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
 
----
+## HOOK + OFFER (20 sec)
 
-## HOOK (15 sec) — the leak
-> "Yeah, that's what I figured. Here's the thing — Customers ordering takeout on phones see DoorDash listings — but they want a website to confirm hours, menu, and trust before they tap."
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
 
----
+## SHOW THE SITE
 
-## OFFER (15 sec) — one number
-> "I built you a clean website for **Lalo's Taqueria**. Mobile-friendly, fast. **$799 one-time. Hosting included for life. Updates included for life.** Anytime you want a change, text me. No monthly fees, ever. Done in a week."
+> "Pull this up on your phone: **mehta-alok.github.io/websites/lalos-taqueria**"
 
-What it includes:
-- Full menu with prices on the page
-- ORDER ONLINE button (DoorDash/Grubhub)
-- Photo gallery of food
-- Hours, address, click-to-call, map
+*Wait. Let them scroll.*
 
----
+> "That's literally your restaurant. Your menu with prices, your hours, click-to-call. Order Online routes to DoorDash or whatever you use."
 
-## SHOW THE SITE (the close)
-Open this on your phone and slide it across to Lalo:
+**Stop talking. Let silence work.**
 
-> **https://mehta-alok.github.io/websites/lalos-taqueria/**
+## CLOSE
 
-Walk them through:
-1. Hero — "That's your name, your city, your reviews."
-2. Services / Menu — "Your real prices, customer-facing."
-3. Gallery — "Photos of your work."
-4. Reviews — "Your real 323 Yelp reviews displayed."
-5. Map / Hours — "Your real address, click-to-call phone."
+> "Want it live by Friday on your own domain? $799 once, that's it."
 
-Stop talking. Let them scroll.
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
 
 ---
 
-## OBJECTION HANDLERS
+## QUICK OBJECTIONS
 
 | They say | You say |
 |----------|---------|
-| "I don't need one." | "Totally fair. But your competitors have one — they're the ones showing up first when someone Googles 'Mexican restaurants Hayward'. With 323 reviews, you should be #1." |
-| "I'm too busy." | "That's why this works. You don't do anything. Send me your logo and 5 photos — I'll handle the rest." |
-| "Too expensive." | "Even 2 extra customers a month pays for it forever. After that, it's pure new revenue." |
-| "Let me think about it." | "Sure — what specifically? Price, design, or timing?" *(Force the real objection out.)* |
-| "How much again?" | "$799 once. Updates forever. No subscriptions. Done in a week." |
-| "Can you do it cheaper?" | "$799 is firm — but I'll throw in a free Google Business Profile cleanup and the domain for year one. Fair?" |
-| "What if I don't like it?" | "I'll mock it up first, free. If you don't like it, you owe me nothing." |
+| "Don't need a website." | "I get it — but customers Google 'Mexican restaurants Hayward' before they drive over. Your competitors with sites get those people. With 323 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 5 takeout orders pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
 
----
+## VOICEMAIL (15 sec)
 
-## CLOSE (be direct)
-> "Want me to make this yours by Friday?"
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Lalo's Taqueria** — please look at **mehta-alok.github.io/websites/lalos-taqueria** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
 
-If yes → "Great. Just text me your logo (if you have one) and 5 photos to (510) 940-0137. I'll have the live URL with your domain by Friday."
+## TEXT FOLLOW-UP
 
----
-
-## VOICEMAIL (90% will hit voicemail first)
-> "Hey Lalo, this is Alok, local in Milpitas. I built a website for **Lalo's Taqueria** — go to **https://mehta-alok.github.io/websites/lalos-taqueria/** to see it, takes 30 seconds. $799 flat, no monthly fees. Call or text me back at [your number] when you've seen it. Thanks."
-
----
-
-## TEXT FOLLOW-UP (Day 3 if no reply)
-> "Hi Lalo — Alok from Tuesday. Did you get a chance to look at the Lalo's Taqueria website I sent? https://mehta-alok.github.io/websites/lalos-taqueria/ — let me know if you want it live this week."
-
----
-
-**Best time to call** mid-morning before lunch rush (10–11 AM).
+> "Hi Lalo — Alok from earlier. Did you see the Lalo's Taqueria site? **mehta-alok.github.io/websites/lalos-taqueria** — let me know if you want it live this week."
