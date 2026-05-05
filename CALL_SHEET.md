@@ -6,7 +6,6 @@
 | Taqueria Senaida's | authentic Mexican kitchen | Hayward | (510) 783-6031 |  | 787 | [Open](https://mehta-alok.github.io/websites/taqueria-senaidas/) |
 | Pho Nguyen | authentic Vietnamese kitchen | Milpitas | (408) 945-5909 |  | 608 | [Open](https://mehta-alok.github.io/websites/pho-nguyen/) |
 | Larry's Tire Express | local tire shop | Hayward | (510) 581-6020 |  | 564 | [Open](https://mehta-alok.github.io/websites/larrys-tire-express/) |
-| Alterations by Ioana | alterations & tailoring | San Jose | (408) 288-5091 | Ioana | 483 | [Open](https://mehta-alok.github.io/websites/alterations-by-ioana/) |
 | Fremont Smog Test Only | STAR-certified smog station | Fremont | (510) 744-9955 |  | 482 | [Open](https://mehta-alok.github.io/websites/fremont-smog/) |
 | Taste Good Beijing | authentic Chinese kitchen | Milpitas | (408) 262-9439 |  | 338 | [Open](https://mehta-alok.github.io/websites/taste-good-beijing/) |
 | Lalo's Taqueria | authentic Mexican kitchen | Hayward | (510) 940-0137 | Lalo | 323 | [Open](https://mehta-alok.github.io/websites/lalos-taqueria/) |
@@ -29,9 +28,9 @@
 2. **Taqueria Senaida's** (Hayward) — 787 reviews — (510) 783-6031
 3. **Pho Nguyen** (Milpitas) — 608 reviews — (408) 945-5909
 4. **Larry's Tire Express** (Hayward) — 564 reviews — (510) 581-6020
-5. **Alterations by Ioana** (San Jose) — 483 reviews — (408) 288-5091
-6. **Fremont Smog Test Only** (Fremont) — 482 reviews — (510) 744-9955
-7. **Taste Good Beijing** (Milpitas) — 338 reviews — (408) 262-9439
-8. **Lalo's Taqueria** (Hayward) — 323 reviews — (510) 940-0137
-9. **Q-Nails** (Fremont) — 306 reviews — (510) 226-8882
-10. **Lavender Nail & Spa** (Hayward) — 277 reviews — (510) 265-1567
+5. **Fremont Smog Test Only** (Fremont) — 482 reviews — (510) 744-9955
+6. **Taste Good Beijing** (Milpitas) — 338 reviews — (408) 262-9439
+7. **Lalo's Taqueria** (Hayward) — 323 reviews — (510) 940-0137
+8. **Q-Nails** (Fremont) — 306 reviews — (510) 226-8882
+9. **Lavender Nail & Spa** (Hayward) — 277 reviews — (510) 265-1567
+10. **Taqueria Mar y Tierra** (Hayward) — 236 reviews — (510) 786-4150
