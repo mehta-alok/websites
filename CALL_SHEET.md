@@ -20,16 +20,29 @@
 | Quach's Locksmith | trusted local locksmiths | Oakland | (510) 839-8888 | the Quach family | 65 | [Open](https://mehta-alok.github.io/websites/quach-locksmith/) |
 | Mike's Plumbing and Piping | trusted local plumbers | San Jose | (408) 960-9313 | Mike | 50 | [Open](https://mehta-alok.github.io/websites/mikes-plumbing-piping/) |
 | Family Auto Repair | trusted local auto shop | Fremont | (510) 894-4601 |  | 45 | [Open](https://mehta-alok.github.io/websites/family-auto-repair/) |
+| Banh Mi Ba Le | authentic Vietnamese kitchen | Oakland | (510) 261-9800 |  | 1,581 | [Open](https://mehta-alok.github.io/websites/banh-mi-ba-le/) |
+| Saigon City | authentic Vietnamese kitchen | San Mateo | (650) 340-8878 |  | 842 | [Open](https://mehta-alok.github.io/websites/saigon-city/) |
+| House of Pho | authentic Vietnamese kitchen | Hayward | (510) 578-3533 |  | 366 | [Open](https://mehta-alok.github.io/websites/house-of-pho/) |
+| Bravo Taqueria | authentic Mexican kitchen | Redwood City | (650) 364-3511 |  | 374 | [Open](https://mehta-alok.github.io/websites/bravo-taqueria/) |
+| Mariscos Las Islitas | authentic Mexican kitchen | San Jose | (408) 452-7411 |  | 164 | [Open](https://mehta-alok.github.io/websites/mariscos-las-islitas/) |
+| Best Taste Restaurant | authentic Chinese kitchen | Oakland | (510) 444-4983 |  | 230 | [Open](https://mehta-alok.github.io/websites/best-taste-restaurant/) |
+| Lincoln Shoe Repair | cobbler & shoe repair | San Jose | (408) 978-2589 |  | 186 | [Open](https://mehta-alok.github.io/websites/lincoln-shoe-repair/) |
+| Hasumi Sushi | authentic Japanese restaurant | Walnut Creek | (925) 949-8041 |  | 379 | [Open](https://mehta-alok.github.io/websites/hasumi-sushi/) |
+| Little Namking | authentic Chinese kitchen | San Leandro | (510) 382-0168 |  | 447 | [Open](https://mehta-alok.github.io/websites/little-namking/) |
+| All Star Barber Shop | classic barbershop | San Mateo | (650) 579-7020 |  | 310 | [Open](https://mehta-alok.github.io/websites/all-star-barber-shop/) |
+| La Piñata Taqueria | authentic Mexican kitchen | Vallejo | (707) 334-8381 |  | 396 | [Open](https://mehta-alok.github.io/websites/la-pinata-taqueria/) |
+| PhilHouse | authentic Filipino kitchen | Vallejo | (707) 645-8971 |  | 158 | [Open](https://mehta-alok.github.io/websites/philhouse/) |
+| DJ Bibingkahan | authentic Filipino kitchen | Vallejo | (707) 554-0504 |  | 155 | [Open](https://mehta-alok.github.io/websites/dj-bibingkahan/) |
 
 ## Call order (highest pain first)
 
-1. **Sassy Nail** (Santa Clara) — 868 reviews — (408) 246-3600
-2. **Taqueria Senaida's** (Hayward) — 787 reviews — (510) 783-6031
-3. **Pho Nguyen** (Milpitas) — 608 reviews — (408) 945-5909
-4. **Larry's Tire Express** (Hayward) — 564 reviews — (510) 581-6020
-5. **Fremont Smog Test Only** (Fremont) — 482 reviews — (510) 744-9955
-6. **Taste Good Beijing** (Milpitas) — 338 reviews — (408) 262-9439
-7. **Lalo's Taqueria** (Hayward) — 323 reviews — (510) 940-0137
-8. **Q-Nails** (Fremont) — 306 reviews — (510) 226-8882
-9. **Lavender Nail & Spa** (Hayward) — 277 reviews — (510) 265-1567
-10. **Taqueria Mar y Tierra** (Hayward) — 236 reviews — (510) 786-4150
+1. **Banh Mi Ba Le** (Oakland) — 1,581 reviews — (510) 261-9800
+2. **Sassy Nail** (Santa Clara) — 868 reviews — (408) 246-3600
+3. **Saigon City** (San Mateo) — 842 reviews — (650) 340-8878
+4. **Taqueria Senaida's** (Hayward) — 787 reviews — (510) 783-6031
+5. **Pho Nguyen** (Milpitas) — 608 reviews — (408) 945-5909
+6. **Larry's Tire Express** (Hayward) — 564 reviews — (510) 581-6020
+7. **Fremont Smog Test Only** (Fremont) — 482 reviews — (510) 744-9955
+8. **Little Namking** (San Leandro) — 447 reviews — (510) 382-0168
+9. **La Piñata Taqueria** (Vallejo) — 396 reviews — (707) 334-8381
+10. **Hasumi Sushi** (Walnut Creek) — 379 reviews — (925) 949-8041
