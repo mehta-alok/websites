@@ -2,7 +2,6 @@
 
 | Business | Niche | City | Phone | Owner | Reviews | Site |
 |----------|-------|------|-------|-------|---------|------|
-| Sassy Nail | premier nail salon | Santa Clara | (408) 246-3600 | Thu | 868 | [Open](https://mehta-alok.github.io/websites/sassy-nail/) |
 | Taqueria Senaida's | authentic Mexican kitchen | Hayward | (510) 783-6031 |  | 787 | [Open](https://mehta-alok.github.io/websites/taqueria-senaidas/) |
 | Pho Nguyen | authentic Vietnamese kitchen | Milpitas | (408) 945-5909 |  | 608 | [Open](https://mehta-alok.github.io/websites/pho-nguyen/) |
 | Larry's Tire Express | local tire shop | Hayward | (510) 581-6020 |  | 564 | [Open](https://mehta-alok.github.io/websites/larrys-tire-express/) |
@@ -37,12 +36,12 @@
 ## Call order (highest pain first)
 
 1. **Banh Mi Ba Le** (Oakland) — 1,581 reviews — (510) 261-9800
-2. **Sassy Nail** (Santa Clara) — 868 reviews — (408) 246-3600
-3. **Saigon City** (San Mateo) — 842 reviews — (650) 340-8878
-4. **Taqueria Senaida's** (Hayward) — 787 reviews — (510) 783-6031
-5. **Pho Nguyen** (Milpitas) — 608 reviews — (408) 945-5909
-6. **Larry's Tire Express** (Hayward) — 564 reviews — (510) 581-6020
-7. **Fremont Smog Test Only** (Fremont) — 482 reviews — (510) 744-9955
-8. **Little Namking** (San Leandro) — 447 reviews — (510) 382-0168
-9. **La Piñata Taqueria** (Vallejo) — 396 reviews — (707) 334-8381
-10. **Hasumi Sushi** (Walnut Creek) — 379 reviews — (925) 949-8041
+2. **Saigon City** (San Mateo) — 842 reviews — (650) 340-8878
+3. **Taqueria Senaida's** (Hayward) — 787 reviews — (510) 783-6031
+4. **Pho Nguyen** (Milpitas) — 608 reviews — (408) 945-5909
+5. **Larry's Tire Express** (Hayward) — 564 reviews — (510) 581-6020
+6. **Fremont Smog Test Only** (Fremont) — 482 reviews — (510) 744-9955
+7. **Little Namking** (San Leandro) — 447 reviews — (510) 382-0168
+8. **La Piñata Taqueria** (Vallejo) — 396 reviews — (707) 334-8381
+9. **Hasumi Sushi** (Walnut Creek) — 379 reviews — (925) 949-8041
+10. **Bravo Taqueria** (Redwood City) — 374 reviews — (650) 364-3511
