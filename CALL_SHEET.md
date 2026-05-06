@@ -13,7 +13,6 @@
 | Lavender Nail & Spa | premier nail salon | Hayward | (510) 265-1567 |  | 277 | [Open](https://mehta-alok.github.io/websites/lavender-nail-spa/) |
 | Taqueria Mar y Tierra | authentic Mexican kitchen | Hayward | (510) 786-4150 |  | 236 | [Open](https://mehta-alok.github.io/websites/taqueria-mar-y-tierra/) |
 | Top Cut Barber Salon | classic barbershop | Oakland | (510) 547-1205 |  | 200 | [Open](https://mehta-alok.github.io/websites/top-cut-barber-salon/) |
-| R & David Salon | hair salon | Cupertino | (408) 799-0759 |  | 157 | [Open](https://mehta-alok.github.io/websites/r-and-david-salon/) |
 | Eagle Tires & Wheels | local tire shop | Hayward | (510) 538-2228 |  | 142 | [Open](https://mehta-alok.github.io/websites/eagle-tires-wheels/) |
 | Affordable Plumbing Solutions | trusted local plumbers | San Jose | (408) 972-5325 |  | 130 | [Open](https://mehta-alok.github.io/websites/affordable-plumbing-solutions/) |
 | One Hour Alterations | alterations & tailoring | San Jose | (408) 259-4113 |  | 130 | [Open](https://mehta-alok.github.io/websites/one-hour-alterations/) |
