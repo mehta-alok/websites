@@ -1624,3 +1624,1083 @@ If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL F
 
 ---
 
+# Sales Script — Las Cuatro Milpas
+
+**Show:** https://mehta-alok.github.io/websites/las-cuatro-milpas/
+**Phone:** (619) 234-4460 · ask for **the owner**
+**2,928 reviews · 4.5★ · authentic Mexican kitchen · San Diego**
+**Best window:** 2–4 PM (between lunch & dinner)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up Mexican restaurants in San Diego and yours came up — **2,928 reviews on Yelp, 4.5 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/las-cuatro-milpas**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your restaurant. Your menu with prices, your hours, click-to-call. Order Online routes to DoorDash or whatever you use."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'Mexican restaurants San Diego' before they drive over. Your competitors with sites get those people. With 2,928 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 5 takeout orders pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Las Cuatro Milpas** — please look at **mehta-alok.github.io/websites/las-cuatro-milpas** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Las Cuatro Milpas site? **mehta-alok.github.io/websites/las-cuatro-milpas** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Pho Duyen Mai
+
+**Show:** https://mehta-alok.github.io/websites/pho-duyen-mai/
+**Phone:** (858) 560-5354 · ask for **the owner**
+**1,418 reviews · 4.0★ · authentic Vietnamese kitchen · San Diego**
+**Best window:** 2–4 PM (between lunch & dinner)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up Vietnamese restaurants in San Diego and yours came up — **1,418 reviews on Yelp, 4.0 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/pho-duyen-mai**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your restaurant. Pho menu with prices, hours, click-to-call. Order Online routes to DoorDash or your platform."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'Vietnamese restaurants San Diego' before they drive over. Your competitors with sites get those people. With 1,418 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 5 takeout orders pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Pho Duyen Mai** — please look at **mehta-alok.github.io/websites/pho-duyen-mai** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Pho Duyen Mai site? **mehta-alok.github.io/websites/pho-duyen-mai** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Tita's Kitchenette
+
+**Show:** https://mehta-alok.github.io/websites/titas-kitchenette/
+**Phone:** (619) 434-3879 · ask for **the owner**
+**1,406 reviews · 4.5★ · authentic Filipino kitchen · National City**
+**Best window:** 2–4 PM (between lunch & dinner)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up Filipino restaurants in National City and yours came up — **1,406 reviews on Yelp, 4.5 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/titas-kitchenette**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your restaurant. Filipino menu — adobo, lumpia, sisig — your hours, click-to-call."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'Filipino restaurants National City' before they drive over. Your competitors with sites get those people. With 1,406 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 5 takeout orders pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Tita's Kitchenette** — please look at **mehta-alok.github.io/websites/titas-kitchenette** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Tita's Kitchenette site? **mehta-alok.github.io/websites/titas-kitchenette** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Ronald's Donuts
+
+**Show:** https://mehta-alok.github.io/websites/ronalds-donuts/
+**Phone:** (702) 873-1032 · ask for **the owner**
+**1,214 reviews · 4.7★ · beloved local donut shop · Las Vegas**
+**Best window:** weekday afternoons
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up donut shops in Las Vegas and yours came up — **1,214 reviews on Yelp, 4.7 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/ronalds-donuts**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your business. All your real info displayed."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'donut shops Las Vegas' before they decide. Your competitors with sites get those people. With 1,214 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even one extra customer pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Ronald's Donuts** — please look at **mehta-alok.github.io/websites/ronalds-donuts** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Ronald's Donuts site? **mehta-alok.github.io/websites/ronalds-donuts** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Amy Hieu Hair Salon
+
+**Show:** https://mehta-alok.github.io/websites/amy-hieu-hair-salon/
+**Phone:** (281) 561-8066 · ask for **Amy**
+**1,067 reviews · 4.5★ · hair salon · Houston**
+**Best window:** 11 AM or 2–4 PM (between appointments)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is Amy around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up hair salons in Houston and yours came up — **1,067 reviews on Yelp, 4.5 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/amy-hieu-hair-salon**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your salon. Your real prices, your address, click-to-call, your real Yelp reviews. Big Book button connects to your booking."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'hair salons Houston' before they book. Your competitors with sites get those people. With 1,067 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 2 extra appointments pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Amy Hieu Hair Salon** — please look at **mehta-alok.github.io/websites/amy-hieu-hair-salon** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi Amy — Alok from earlier. Did you see the Amy Hieu Hair Salon site? **mehta-alok.github.io/websites/amy-hieu-hair-salon** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Quality Nails & Spa
+
+**Show:** https://mehta-alok.github.io/websites/quality-nails-spa/
+**Phone:** (562) 985-3035 · ask for **the owner**
+**1,012 reviews · 4.1★ · premier nail salon · Long Beach**
+**Best window:** 11 AM or 2–4 PM (between appointments)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up nail salons in Long Beach and yours came up — **1,012 reviews on Yelp, 4.1 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/quality-nails-spa**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your salon. Your real prices, your address, click-to-call, your real Yelp reviews. The Book button connects to your booking system or routes calls to you."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'nail salons Long Beach' before they book. Your competitors with sites get those people. With 1,012 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 2 extra appointments pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Quality Nails & Spa** — please look at **mehta-alok.github.io/websites/quality-nails-spa** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Quality Nails & Spa site? **mehta-alok.github.io/websites/quality-nails-spa** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Comedor Guadalajara
+
+**Show:** https://mehta-alok.github.io/websites/comedor-guadalajara/
+**Phone:** (602) 253-8299 · ask for **the owner**
+**841 reviews · 4.4★ · authentic Mexican kitchen · Phoenix**
+**Best window:** 2–4 PM (between lunch & dinner)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up Mexican restaurants in Phoenix and yours came up — **841 reviews on Yelp, 4.4 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/comedor-guadalajara**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your restaurant. Your menu with prices, your hours, click-to-call. Order Online routes to DoorDash or whatever you use."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'Mexican restaurants Phoenix' before they drive over. Your competitors with sites get those people. With 841 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 5 takeout orders pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Comedor Guadalajara** — please look at **mehta-alok.github.io/websites/comedor-guadalajara** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Comedor Guadalajara site? **mehta-alok.github.io/websites/comedor-guadalajara** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Saigon Corner Restaurant
+
+**Show:** https://mehta-alok.github.io/websites/saigon-corner/
+**Phone:** (702) 202-4961 · ask for **the owner**
+**835 reviews · 4.6★ · authentic Vietnamese kitchen · Las Vegas**
+**Best window:** 2–4 PM (between lunch & dinner)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up Vietnamese restaurants in Las Vegas and yours came up — **835 reviews on Yelp, 4.6 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/saigon-corner**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your restaurant. Pho menu with prices, hours, click-to-call. Order Online routes to DoorDash or your platform."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'Vietnamese restaurants Las Vegas' before they drive over. Your competitors with sites get those people. With 835 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 5 takeout orders pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Saigon Corner Restaurant** — please look at **mehta-alok.github.io/websites/saigon-corner** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Saigon Corner Restaurant site? **mehta-alok.github.io/websites/saigon-corner** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Santa Fe Taqueria
+
+**Show:** https://mehta-alok.github.io/websites/santa-fe-taqueria/
+**Phone:** (408) 258-2599 · ask for **the owner**
+**678 reviews · 4.2★ · authentic Mexican kitchen · San Jose**
+**Best window:** 2–4 PM (between lunch & dinner)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up Mexican restaurants in San Jose and yours came up — **678 reviews on Yelp, 4.2 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/santa-fe-taqueria**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your restaurant. Your menu with prices, your hours, click-to-call. Order Online routes to DoorDash or whatever you use."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'Mexican restaurants San Jose' before they drive over. Your competitors with sites get those people. With 678 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 5 takeout orders pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Santa Fe Taqueria** — please look at **mehta-alok.github.io/websites/santa-fe-taqueria** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Santa Fe Taqueria site? **mehta-alok.github.io/websites/santa-fe-taqueria** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Tacos Y Birria La Unica
+
+**Show:** https://mehta-alok.github.io/websites/tacos-y-birria-la-unica/
+**Phone:** (323) 715-4025 · ask for **the owner**
+**647 reviews · 4.5★ · authentic Mexican kitchen · Los Angeles**
+**Best window:** 2–4 PM (between lunch & dinner)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up Mexican restaurants in Los Angeles and yours came up — **647 reviews on Yelp, 4.5 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/tacos-y-birria-la-unica**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your restaurant. Your menu with prices, your hours, click-to-call. Order Online routes to DoorDash or whatever you use."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'Mexican restaurants Los Angeles' before they drive over. Your competitors with sites get those people. With 647 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 5 takeout orders pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Tacos Y Birria La Unica** — please look at **mehta-alok.github.io/websites/tacos-y-birria-la-unica** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Tacos Y Birria La Unica site? **mehta-alok.github.io/websites/tacos-y-birria-la-unica** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Monet Spa & Nails
+
+**Show:** https://mehta-alok.github.io/websites/monet-spa-nails/
+**Phone:** (916) 457-7018 · ask for **Tracy**
+**394 reviews · 4.5★ · premier nail salon · Sacramento**
+**Best window:** 11 AM or 2–4 PM (between appointments)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is Tracy around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up nail salons in Sacramento and yours came up — **394 reviews on Yelp, 4.5 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/monet-spa-nails**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your salon. Your real prices, your address, click-to-call, your real Yelp reviews. The Book button connects to your booking system or routes calls to you."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'nail salons Sacramento' before they book. Your competitors with sites get those people. With 394 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 2 extra appointments pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Monet Spa & Nails** — please look at **mehta-alok.github.io/websites/monet-spa-nails** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi Tracy — Alok from earlier. Did you see the Monet Spa & Nails site? **mehta-alok.github.io/websites/monet-spa-nails** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Ha VL
+
+**Show:** https://mehta-alok.github.io/websites/ha-vl/
+**Phone:** (503) 772-0103 · ask for **the owner**
+**374 reviews · 4.4★ · authentic Vietnamese kitchen · Portland**
+**Best window:** 2–4 PM (between lunch & dinner)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up Vietnamese restaurants in Portland and yours came up — **374 reviews on Yelp, 4.4 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/ha-vl**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your restaurant. Pho menu with prices, hours, click-to-call. Order Online routes to DoorDash or your platform."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'Vietnamese restaurants Portland' before they drive over. Your competitors with sites get those people. With 374 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 5 takeout orders pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Ha VL** — please look at **mehta-alok.github.io/websites/ha-vl** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Ha VL site? **mehta-alok.github.io/websites/ha-vl** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Phoenix Appliance Services
+
+**Show:** https://mehta-alok.github.io/websites/phoenix-appliance-services/
+**Phone:** (623) 292-7152 · ask for **the owner**
+**367 reviews · 4.5★ · appliance repair experts · Phoenix**
+**Best window:** weekday afternoons
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up appliance repair in Phoenix and yours came up — **367 reviews on Yelp, 4.5 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/phoenix-appliance-services**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your business. All your real info displayed."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'appliance repair Phoenix' before they decide. Your competitors with sites get those people. With 367 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even one extra customer pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Phoenix Appliance Services** — please look at **mehta-alok.github.io/websites/phoenix-appliance-services** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Phoenix Appliance Services site? **mehta-alok.github.io/websites/phoenix-appliance-services** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Garcia's Mexican Food
+
+**Show:** https://mehta-alok.github.io/websites/garcias-mexican-food/
+**Phone:** (210) 735-5686 · ask for **the owner**
+**352 reviews · 4.5★ · authentic Mexican kitchen · San Antonio**
+**Best window:** 2–4 PM (between lunch & dinner)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up Mexican restaurants in San Antonio and yours came up — **352 reviews on Yelp, 4.5 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/garcias-mexican-food**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your restaurant. Your menu with prices, your hours, click-to-call. Order Online routes to DoorDash or whatever you use."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'Mexican restaurants San Antonio' before they drive over. Your competitors with sites get those people. With 352 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 5 takeout orders pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Garcia's Mexican Food** — please look at **mehta-alok.github.io/websites/garcias-mexican-food** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Garcia's Mexican Food site? **mehta-alok.github.io/websites/garcias-mexican-food** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Naaz Bar Beauty Salon
+
+**Show:** https://mehta-alok.github.io/websites/naaz-bar-beauty-salon/
+**Phone:** (408) 226-2264 · ask for **the owner**
+**342 reviews · 4.5★ · eyebrow threading studio · San Jose**
+**Best window:** weekday afternoons
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up eyebrow threading in San Jose and yours came up — **342 reviews on Yelp, 4.5 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/naaz-bar-beauty-salon**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your business. All your real info displayed."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'eyebrow threading San Jose' before they decide. Your competitors with sites get those people. With 342 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even one extra customer pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Naaz Bar Beauty Salon** — please look at **mehta-alok.github.io/websites/naaz-bar-beauty-salon** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Naaz Bar Beauty Salon site? **mehta-alok.github.io/websites/naaz-bar-beauty-salon** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Best Beauty Nail & Salon
+
+**Show:** https://mehta-alok.github.io/websites/best-beauty-nail-salon/
+**Phone:** (725) 251-5254 · ask for **the owner**
+**336 reviews · 4.5★ · premier nail salon · Las Vegas**
+**Best window:** 11 AM or 2–4 PM (between appointments)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up nail salons in Las Vegas and yours came up — **336 reviews on Yelp, 4.5 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/best-beauty-nail-salon**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your salon. Your real prices, your address, click-to-call, your real Yelp reviews. The Book button connects to your booking system or routes calls to you."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'nail salons Las Vegas' before they book. Your competitors with sites get those people. With 336 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 2 extra appointments pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Best Beauty Nail & Salon** — please look at **mehta-alok.github.io/websites/best-beauty-nail-salon** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Best Beauty Nail & Salon site? **mehta-alok.github.io/websites/best-beauty-nail-salon** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Theodore Shoe Repair
+
+**Show:** https://mehta-alok.github.io/websites/theodore-shoe-repair/
+**Phone:** (773) 989-0440 · ask for **the owner**
+**328 reviews · 4.5★ · cobbler & shoe repair · Chicago**
+**Best window:** 10:30 AM or 2–3 PM (slow window)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up shoe repair shops in Chicago and yours came up — **328 reviews on Yelp, 4.5 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/theodore-shoe-repair**"
+
+*Wait. Let them scroll.*
+
+> "That's your shop. Service pricing — heels $20+, soles $35+, boot resole $80+. Drop-off hours, click-to-call."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'shoe repair shops Chicago' before they drop off. Your competitors with sites get those people. With 328 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 20 heel replacements pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Theodore Shoe Repair** — please look at **mehta-alok.github.io/websites/theodore-shoe-repair** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Theodore Shoe Repair site? **mehta-alok.github.io/websites/theodore-shoe-repair** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — All About Nails
+
+**Show:** https://mehta-alok.github.io/websites/all-about-nails/
+**Phone:** (510) 834-6910 · ask for **the owner**
+**285 reviews · 4.8★ · premier nail salon · Oakland**
+**Best window:** 11 AM or 2–4 PM (between appointments)
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up nail salons in Oakland and yours came up — **285 reviews on Yelp, 4.8 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/all-about-nails**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your salon. Your real prices, your address, click-to-call, your real Yelp reviews. The Book button connects to your booking system or routes calls to you."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'nail salons Oakland' before they book. Your competitors with sites get those people. With 285 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even 2 extra appointments pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **All About Nails** — please look at **mehta-alok.github.io/websites/all-about-nails** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the All About Nails site? **mehta-alok.github.io/websites/all-about-nails** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Brow Threading Studio
+
+**Show:** https://mehta-alok.github.io/websites/brow-threading-studio/
+**Phone:** (408) 549-5356 · ask for **the owner**
+**271 reviews · 4.6★ · eyebrow threading studio · San Jose**
+**Best window:** weekday afternoons
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up eyebrow threading in San Jose and yours came up — **271 reviews on Yelp, 4.6 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/brow-threading-studio**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your business. All your real info displayed."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'eyebrow threading San Jose' before they decide. Your competitors with sites get those people. With 271 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even one extra customer pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Brow Threading Studio** — please look at **mehta-alok.github.io/websites/brow-threading-studio** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Brow Threading Studio site? **mehta-alok.github.io/websites/brow-threading-studio** — let me know if you want it live this week."
+
+
+---
+
+# Sales Script — Annie's Donuts
+
+**Show:** https://mehta-alok.github.io/websites/annies-donuts/
+**Phone:** (503) 284-2752 · ask for **the owner**
+**271 reviews · 4.6★ · beloved local donut shop · Portland**
+**Best window:** weekday afternoons
+
+---
+
+## OPENER (10 sec)
+
+> "Hi, is the owner around? — Hi, my name's Alok, I'm a local college student. Quick question — got 30 seconds? I was looking up donut shops in Portland and yours came up — **271 reviews on Yelp, 4.6 stars**. But I noticed you don't have a website. Is that on purpose, or just hasn't been a priority?"
+
+## HOOK + OFFER (20 sec)
+
+> "Yeah, that's what I figured. So I built one for you, live right now. I'm doing this as a college side project — agencies charge **two to three grand** for the same thing. I'm doing it for **$799 flat, one-time**. No monthly fees, hosting and updates included for life. Done in a week."
+
+## SHOW THE SITE
+
+> "Pull this up on your phone: **mehta-alok.github.io/websites/annies-donuts**"
+
+*Wait. Let them scroll.*
+
+> "That's literally your business. All your real info displayed."
+
+**Stop talking. Let silence work.**
+
+## CLOSE
+
+> "Want it live by Friday on your own domain? $799 once, that's it."
+
+If yes → "Just text me your logo and 5 photos to **[your number]**. Live URL Friday."
+
+---
+
+## QUICK OBJECTIONS
+
+| They say | You say |
+|----------|---------|
+| "Don't need a website." | "I get it — but customers Google 'donut shops Portland' before they decide. Your competitors with sites get those people. With 271 reviews you should be #1." |
+| "Too expensive." | "Agency would charge 2–3 thousand. I'm a student so I do it for 799. Even one extra customer pays for it." |
+| "Let me think." | "Sure — what specifically? Price, design, or timing?" |
+
+## VOICEMAIL (15 sec)
+
+> "Hi, this is Alok, local college student in Milpitas. Built a website for **Annie's Donuts** — please look at **mehta-alok.github.io/websites/annies-donuts** when you can. $799 flat, no monthly fees. Most agencies charge $2–3K, I'm doing it for $799. Call or text me at [your number]. Thanks."
+
+## TEXT FOLLOW-UP
+
+> "Hi the owner — Alok from earlier. Did you see the Annie's Donuts site? **mehta-alok.github.io/websites/annies-donuts** — let me know if you want it live this week."
+
+
+---
+
