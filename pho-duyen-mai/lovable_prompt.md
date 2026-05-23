@@ -62,7 +62,14 @@ VERBATIM YELP REVIEWS (display these in the Reviews section, exactly as written)
 > 3. **Reservations** (CORE FEATURE) — date picker (no past dates, no closed days), 30-minute time slots within business hours, party-size dropdown (1–10), name/phone/email + optional notes. On submit: insert into Supabase `reservations` table, show confirmation, fire a Resend email to the owner.
 > 4. **Online Ordering** — three big buttons linking to DoorDash, Grubhub, Uber Eats (placeholder URLs — owner fills in).
 > 5. **Gallery** — 8-image responsive grid with click-to-enlarge lightbox. Use tasteful food photos.
-> 6. **Reviews** — three testimonial cards using the verbatim Yelp reviews provided in STEP 1.
+> 6. **Reviews — LIVE from Google** (this is what sells the site). In a Supabase edge function:
+>    - Call Places API `findplacefromtext` with `input = "{BUSINESS NAME from STEP 1} {FULL ADDRESS from STEP 1}"` to resolve the `place_id`.
+>    - Call Places API `place/details` with that `place_id` and `fields=reviews,rating,user_ratings_total,url`.
+>    - Render the 3 most relevant reviews: 5-star row, reviewer's real name + profile photo (from the API response), relative time ("a month ago"), verbatim review text (truncate at ~200 chars with "Read more" linking to Google).
+>    - Show the overall rating + total count ("{rating}★ · {count} reviews on Google").
+>    - Cache the API response in a Supabase table for 24 hours (Places API has quotas).
+>    - Add a prominent "Read all reviews on Google" button linking to the API's returned Maps `url`.
+>    - **Fallback** if the API call fails or `GOOGLE_PLACES_API_KEY` isn't set: render the verbatim Yelp reviews from STEP 1 plus an honest rating-and-count callout.
 > 7. **Visit** — full address, embedded Google Map of the real address, hours table, click-to-call phone, "Get Directions" button.
 > 8. **Contact** — short form (name, email, phone, message) → Supabase `messages` table + owner email.
 > 9. **Footer** — name, address, phone, hours, social icons (Yelp / Facebook / Instagram).
@@ -80,4 +87,8 @@ VERBATIM YELP REVIEWS (display these in the Reviews section, exactly as written)
 > - Proper page title, meta description, Open Graph tags, and LocalBusiness JSON-LD with name, address, phone, hours, and rating.
 > - Semantic HTML.
 >
-> Build the complete site now. Start with the full layout + reservation system, then the admin dashboard.
+> Build the complete site now. Start with the full layout + reservation system + live Google reviews, then the admin dashboard.
+>
+> ### Required environment variables (Lovable will prompt)
+> - `GOOGLE_PLACES_API_KEY` — get one at https://console.cloud.google.com/apis (enable "Places API"). Free $200/month credit covers far more than this site will use. **This powers the live Google reviews — the most important authenticity feature.**
+> - `RESEND_API_KEY` — get one at https://resend.com (3K emails/month free). Powers the reservation/contact email notifications.

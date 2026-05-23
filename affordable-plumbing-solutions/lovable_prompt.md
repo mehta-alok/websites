@@ -61,7 +61,14 @@ VERBATIM YELP REVIEWS (display these in the Reviews section, exactly as written)
 > 3. **Quote Request** (CORE FEATURE) — service type dropdown, name, phone, email, service address, optional details/photo upload. On submit: insert into Supabase `quotes` table, show confirmation, fire a Resend email + (optional) SMS to the owner so they can respond fast.
 > 4. **Service Area** — bullet list of cities/areas the business serves.
 > 5. **Gallery** — 8-image grid showing recent work (before/after where applicable).
-> 6. **Reviews** — three testimonial cards using the verbatim Yelp reviews provided in STEP 1.
+> 6. **Reviews — LIVE from Google** (this is what sells the site). In a Supabase edge function:
+>    - Call Places API `findplacefromtext` with `input = "{BUSINESS NAME from STEP 1} {FULL ADDRESS from STEP 1}"` to resolve the `place_id`.
+>    - Call Places API `place/details` with that `place_id` and `fields=reviews,rating,user_ratings_total,url`.
+>    - Render the 3 most relevant reviews: 5-star row, reviewer's real name + profile photo (from the API response), relative time ("a month ago"), verbatim review text (truncate at ~200 chars with "Read more" linking to Google).
+>    - Show the overall rating + total count ("{rating}★ · {count} reviews on Google").
+>    - Cache the API response in a Supabase table for 24 hours (Places API has quotas).
+>    - Add a prominent "Read all reviews on Google" button linking to the API's returned Maps `url`.
+>    - **Fallback** if the API call fails or `GOOGLE_PLACES_API_KEY` isn't set: render the verbatim Yelp reviews from STEP 1 plus an honest rating-and-count callout.
 > 7. **Visit / Contact** — address, embedded Google Map, hours, click-to-call (prominent), Get Directions.
 > 8. **Contact form** — name, email, phone, message → Supabase `messages` + owner email.
 > 9. **Footer** — name, address, phone, hours, social icons.
@@ -77,4 +84,8 @@ VERBATIM YELP REVIEWS (display these in the Reviews section, exactly as written)
 > - Serif headings, clean sans body. Subtle scroll animations.
 > - Proper title, meta, Open Graph, LocalBusiness JSON-LD.
 >
-> Build the complete site now. Start with the full layout + quote system, then the admin dashboard.
+> Build the complete site now. Start with the full layout + quote system + live Google reviews, then the admin dashboard.
+>
+> ### Required environment variables (Lovable will prompt)
+> - `GOOGLE_PLACES_API_KEY` — get one at https://console.cloud.google.com/apis (enable "Places API"). Free $200/month credit covers far more than this site will use. **This powers the live Google reviews — the most important authenticity feature.**
+> - `RESEND_API_KEY` — get one at https://resend.com (3K emails/month free). Powers the quote/contact email notifications.
